@@ -1,6 +1,6 @@
 import streamlit
 import pandas as pd
-
+from urllib.error import URLError
 
 
 streamlit.title('First app')
